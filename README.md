@@ -1,1 +1,2 @@
-# flexBox_website
+# ألق نظرة على الصفحة: https://1510is10l.github.io/flexBox_website/
+- ملاحظة: تم تصميم صفحة الهبوط بدون إستعمال لغة جافا سكريبت فقط لتعلم الFlex Box
